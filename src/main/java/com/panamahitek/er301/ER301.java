@@ -1,11 +1,5 @@
 package com.panamahitek.er301;
 
-//Aquí van los comentarios
-
-//Antony García González
-
-
-
 import com.panamahitek.PanamaHitek_Arduino;
 import gnu.io.SerialPortEvent;
 import gnu.io.SerialPortEventListener;
